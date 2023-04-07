@@ -1,0 +1,13 @@
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\bin\Debug\net6.0\mots.txt
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\bin\Debug\net6.0\Motus.Core.deps.json
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\bin\Debug\net6.0\Motus.Core.dll
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\bin\Debug\net6.0\Motus.Core.pdb
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.csproj.AssemblyReference.cache
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.AssemblyInfoInputs.cache
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.AssemblyInfo.cs
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.dll
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\refint\Motus.Core.dll
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\Motus.Core.pdb
+C:\Users\flori\Documents\EPSI\C#\MotusSolution\Motus.Core\obj\Debug\net6.0\ref\Motus.Core.dll

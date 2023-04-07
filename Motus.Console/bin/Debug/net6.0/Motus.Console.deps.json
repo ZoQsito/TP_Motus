@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Motus.Console/1.0.0": {
+        "dependencies": {
+          "Motus.Core": "1.0.0"
+        },
+        "runtime": {
+          "Motus.Console.dll": {}
+        }
+      },
+      "Motus.Core/1.0.0": {
+        "runtime": {
+          "Motus.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Motus.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Motus.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
