@@ -54,5 +54,20 @@ namespace Motus.CoreTests.CalculMotServiceTests
             Assert.AreEqual(EtatLettre.MauvaiseLettre, actual.Lettres[3].Etat);
             Assert.AreEqual(EtatLettre.MauvaiseLettre, actual.Lettres[4].Etat);
         }
+
+        [TestMethod]
+
+        public void CalculMot_ReturnsExpectedResults()
+        {
+            CalculMotService service = new CalculMotService();
+
+            EssaiMot essaiMot = service.CalculMot("CXXCC", "CCCBC");
+
+            Assert.AreEqual(EtatLettre.BonneLettreMalPlacee, essaiMot.Lettres[0].Etat);
+            Assert.AreEqual(EtatLettre.BonneLettreMalPlacee, essaiMot.Lettres[1].Etat);
+            Assert.AreEqual(EtatLettre.MauvaiseLettre, essaiMot.Lettres[2].Etat);
+            Assert.AreEqual(EtatLettre.MauvaiseLettre, essaiMot.Lettres[3].Etat);
+            Assert.AreEqual(EtatLettre.BonneLettreMalPlacee, essaiMot.Lettres[4].Etat);
+        }
     }
 }
